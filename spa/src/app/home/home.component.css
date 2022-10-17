@@ -1,0 +1,16 @@
+an{
+    background-color: bisque;
+}
+.header-text{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 250px;
+    color: rgb(0, 0, 0);
+    background-image: url('https://th.bing.com/th/id/R.a03a875b7cc2adbc6935ed4faeb5ead7?rik=WW5bbaRCrAcPAQ&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f38%2f26%2fCTF6rH.jpg&ehk=IakEmmK9CXVL3yvkaKLj9jDX1%2bd0vM7lV9rrumtVT7g%3d&risl=&pid=ImgRaw&r=0');
+    background-position: 0px;
+    background-repeat: no-repeat;
+  }
+  .conent{
+    text-align: center;
+    vertical-align: middle;
+  }

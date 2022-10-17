@@ -1,0 +1,18 @@
+.ab{
+    text-align: center;
+    color: green;
+    
+    
+}
+body{
+    background-image: url('https://d37b3blifa5mva.cloudfront.net/000_clients/755288/page/755288egb0f8vJ.jpg');
+    background-position:0px;
+    min-height: 500%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{
+    text-align: center;
+    vertical-align: bottom;
+}
